@@ -1,3 +1,3 @@
-const popAlert = () => {
-    alert('나태주')
-}  
+const alertPoet = () => {
+    alert('한상경')
+} 
